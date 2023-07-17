@@ -30,6 +30,6 @@ body:
     id: additional
     attributes: 
       label: Additional Text
-      description: Something more?
+      description: Something more
       placeholder: ?
 ---
