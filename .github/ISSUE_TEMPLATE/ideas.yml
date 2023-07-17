@@ -1,8 +1,5 @@
 name: Ideas Sharing
-about: Share your amazing ideas!
-title: ''
-labels: ''
-assignees: ''
+description: Share your ideas
 body:
 - type: textarea
   id: info
