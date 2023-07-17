@@ -1,6 +1,6 @@
 ---
 name: Ideas Sharing
-description: "Share your amazing ideas!"
+about: "Share your amazing ideas!"
 labels: ["idea"]
 assignees: ''
 ---
