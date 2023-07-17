@@ -1,9 +1,12 @@
 ---
 name: Ideas Sharing
-about: "Share your amazing ideas!"
-labels: ["idea"]
+about: Share your amazing ideas!
+title: ''
+labels: ''
 assignees: ''
+
 ---
+
 body:
   - type: textarea
     id: info
