@@ -1,4 +1,5 @@
 # Idea Sharing Platfrom
+[简体中文](https://github.com/Zhou-Shilin/Idea-Sharing-Platfrom/blob/main/README-CN.md) | English
 > Are you a bored programmer who can't find an idea for new projects?  
 > Are you a user who wants to realize your ideas?
 
@@ -9,11 +10,11 @@ Click [here](https://github.com/Zhou-Shilin/Idea-Sharing-Project/issues) to ente
   
 When your Idea(s) is completed, you can `Close the issue as completed`.  
 When you have helped a user complete his/her Idea(s), it is recommended to reply in the following format:
-``markdown
+```markdown
 Completed / Duplicate
 Url: [project-name](https://github.com/example/example)
 Features: (Which features are implemented in this project and which features mentioned are not implemented)
 Additional Text: ...
 ```
 
-It's welcome to [improve the translation of this document]().
+It's welcome to [improve the translation of this document](https://github.com/Zhou-Shilin/Idea-Sharing-Platfrom/edit/main/README.md).

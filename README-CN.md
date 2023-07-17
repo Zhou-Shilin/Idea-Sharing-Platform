@@ -1,4 +1,5 @@
 # Idea Sharing Platfrom
+简体中文 | [English](https://github.com/Zhou-Shilin/Idea-Sharing-Platfrom)
 > 你是否是一个无聊的程序员，因找不到创作灵感而烦恼？  
 > 你是否是一个普通用户，想要实现自己的想法？
 
