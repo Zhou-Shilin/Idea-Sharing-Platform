@@ -8,9 +8,9 @@ body:
     description: About your idea...
     placeholder: Enter somethin here...
     value: |
-    Suggest Name: Deep Keyboard
-  Short Description: An input method with artificial intelligence that will use deep learning algorithms to anticipate the text you will type.
-  Suggest programming language: C++, Python
+        Suggest Name: Deep Keyboard
+        Short Description: An input method with artificial intelligence that will use deep learning algorithms to anticipate the text you will type.
+        Suggest programming language: C++, Python
   validations:
     required: true
 - type: textarea
