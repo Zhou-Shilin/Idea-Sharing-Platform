@@ -1,6 +1,9 @@
+---
 name: Ideas Sharing
 description: "Share your amazing ideas!"
 labels: ["idea"]
+assignees: ''
+---
 body:
   - type: textarea
     id: info
