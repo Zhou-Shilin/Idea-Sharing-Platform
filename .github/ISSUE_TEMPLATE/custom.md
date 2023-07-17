@@ -4,7 +4,7 @@ title: ''
 labels: ''
 assignees: ''
 body:
-  - type: textarea
+ - type: textarea
     id: info
     attributes: 
       label: Base Info
@@ -16,7 +16,7 @@ body:
     Suggest programming language: C++, Python
     validations:
       required: true
-  - type: textarea
+ - type: textarea
     id: features
     attributes: 
       label: Features
@@ -25,7 +25,7 @@ body:
       value: "Anticipate the user's next input while they are typing and display it in gray text after the already typed word. When the user presses the Tab key, it will be automatically completed. It also has an automatic spelling correction function."
     validations:
       required: true
-  - type: textarea
+ - type: textarea
     id: additional
     attributes: 
       label: Additional Text
