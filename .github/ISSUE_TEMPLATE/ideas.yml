@@ -1,4 +1,4 @@
-mlname: Ideas Sharing
+name: Ideas Sharing
 about: Share your amazing ideas!
 title: ''
 labels: ''
@@ -30,4 +30,4 @@ body:
   attributes: 
     label: Additional Text
     description: Something more
-    placeholder: ?
+    placeholder: Enter something here...
