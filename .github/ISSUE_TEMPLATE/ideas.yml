@@ -1,5 +1,7 @@
 name: Ideas Sharing
 description: Share your ideas
+labels: ["Idea"]
+title: "[IDEA]"
 body:
 - type: textarea
   id: info
