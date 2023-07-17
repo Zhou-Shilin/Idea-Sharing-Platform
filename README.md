@@ -17,4 +17,4 @@ Features: (Which features are implemented in this project and which features men
 Additional Text: ...
 ```
 
-It's welcome to [improve the translation of this document](https://github.com/Zhou-Shilin/Idea-Sharing-Platfrom/edit/main/README.md).
+It's welcome to [improve the translation of this document](https://github.com/Zhou-Shilin/Idea-Sharing-Platform/edit/main/README.md).
