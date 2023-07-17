@@ -4,9 +4,6 @@ about: Share your amazing ideas!
 title: ''
 labels: ''
 assignees: ''
-
----
-
 body:
   - type: textarea
     id: info
@@ -35,3 +32,4 @@ body:
       label: Additional Text
       description: Something more?
       placeholder: ?
+---
