@@ -1,4 +1,3 @@
----
 name: Ideas Sharing
 about: Share your amazing ideas!
 title: ''
@@ -32,4 +31,3 @@ body:
       label: Additional Text
       description: Something more
       placeholder: ?
----
