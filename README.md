@@ -1,5 +1,5 @@
 # Idea Sharing Platfrom
-[简体中文](https://github.com/Zhou-Shilin/Idea-Sharing-Platfrom/blob/main/README-CN.md) | English
+[简体中文](https://github.com/Zhou-Shilin/Idea-Sharing-Platform/blob/main/README-CN.md) | English
 > Are you a bored programmer who can't find an idea for new projects?  
 > Are you a user who wants to realize your ideas?
 
